@@ -3,8 +3,8 @@
 # MKUSPEC
 
 
-**PN**
+**PN**\
 GVMN9N3
 
-**Opis**
+**Opis**\
 PowerEdge R350 Server
