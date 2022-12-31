@@ -1,5 +1,5 @@
 # mkuspec.github.io
-**MKUSPEC**
+
 # MKUSPEC
 
 
